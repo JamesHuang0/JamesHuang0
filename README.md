@@ -3,10 +3,10 @@
 <h1 align="center"> 👋 Hello, I'm James </h1>  
 
 <h3> I am an eager learner and am open to learning any new programming languages. I am proficient in HTML, CSS, and JavaScript. </h3>
-
+<hr>
 <h2 align="center"> 💻 What I'm working on </h2>
 <h3> I am currently working on an app that utilizes sentiment analysis to verify the authenticity of Google user reviews. I am also currently learning AWS and Java. </h3>
-
+<hr>
 <h2 align="center"> ✉ Contact me </h2>
 
 <h3 align="center">
