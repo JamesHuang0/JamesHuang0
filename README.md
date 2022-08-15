@@ -2,7 +2,10 @@
 
 # Hello, I'm James. 
 
-I am an eager learner and open to learn any new languages I don't already know. I am proficient in HTML, CSS, and JavaScript. I am currently working on an app that utilizes sentiment analysis to verify the authenticity of Google user reviews. I am also currently learning AWS. 
+I am an eager learner and am open to learning any new programming languages. I am proficient in HTML, CSS, and JavaScript. 
+
+# What I'm working on 💻
+I am currently working on an app that utilizes sentiment analysis to verify the authenticity of Google user reviews. I am also currently learning AWS and Java. 
 
 # You can contact me here:
 
