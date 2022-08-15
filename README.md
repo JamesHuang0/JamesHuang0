@@ -1,6 +1,6 @@
 ![header](https://github.com/JamesHuang0/JamesHuang0/blob/main/profile%20banner.png?raw=true)
 
-<div align=center> # 👋 Hello, I'm James <div>  
+<h2 align=center> 👋 Hello, I'm James <div>  
 
 I am an eager learner and am open to learning any new programming languages. I am proficient in HTML, CSS, and JavaScript. 
 
